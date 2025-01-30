@@ -1,0 +1,4 @@
+Method,Time (seconds)
+Thread Pool,5.368914365768433
+Multiprocessing Pool,0.48966073989868164
+Multiprocessing Processes,5.210641622543335
